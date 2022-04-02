@@ -1,5 +1,5 @@
 ---
-author: epidrome
+author: PetroulaStylianou
 title: MSC
 year: 1963
 image_url: /images/MSC.jpg
